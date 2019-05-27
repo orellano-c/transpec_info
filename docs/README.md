@@ -20,3 +20,5 @@ A brief description of the contents of the file is as follows:
 - The spectra correspond to cannabis flowers of 40 samples measured in triplicate (for a total of 120 spectra).  
 - The file contains laboratory measured data for two propeties: Cannabidiolic Acid (CBDA) and tetrahydrocannabinolic acid (THCA). CBDA data is available for 21 samples while THCA is available for 27 samples. 
 - The measurements were condcuted with three different instruments.
+
+You can directly access `transpec` by clicking [here](https://transpec-buchi.cynkra.com/)
