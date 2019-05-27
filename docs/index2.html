@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+<style type="text/css">
+.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>transpec_info | demo data and information for the NIR data transfer tool</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="transpec_info" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="demo data and information for the NIR data transfer tool" />
+<meta property="og:description" content="demo data and information for the NIR data transfer tool" />
+<link rel="canonical" href="https://l-ramirez-lopez.github.io/transpec_info/" />
+<meta property="og:url" content="https://l-ramirez-lopez.github.io/transpec_info/" />
+<meta property="og:site_name" content="transpec_info" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://l-ramirez-lopez.github.io/transpec_info/","headline":"transpec_info","name":"transpec_info","description":"demo data and information for the NIR data transfer tool","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/transpec_info/assets/css/style.css?v=f528e7fcd8a5cd44c712c99137caba1e5b274c46">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://l-ramirez-lopez.github.io/transpec_info/">transpec_info</a></h1>
+        
+        
+
+        <p>demo data and information for the NIR data transfer tool</p>
+
+        
+        <p class="view"><a href="https://github.com/l-ramirez-lopez/transpec_info">View the Project on GitHub <small>l-ramirez-lopez/transpec_info</small></a></p>
+        
+
+        
+
+        
+      </header>
+      <section>
+
+      <p>#<code class="highlighter-rouge">transpec</code>: demo data and information for the NIR data transfer app</p>
+
+<p>Flawil, 27.05.2019</p>
+
+<p>Here you find a short set of tips for using <code class="highlighter-rouge">transpec</code> along with a demo .nir file that you can use to test the app.</p>
+
+<ul>
+  <li>Only N-500/NIRMaster to ProxiMate transfer are allowed (for the moment).</li>
+  <li>Repeated property names are not allowed.</li>
+  <li>No more than 1 product type per .nir file (transfer fucntions are product specific).</li>
+  <li>Before using the app, try to remove special characters in the IDs of the samples.</li>
+  <li>Recommended for N 500/NIRMaster (no nirvis, no n400, etc)</li>
+  <li>Loading huge files might take a while.</li>
+  <li>The wavelength range is only the overlap of both spectrometers (e.g. N 500 to ProxiMate: You can only use 1000 to 1700 nm).</li>
+  <li>Bad input data will return bad output.</li>
+</ul>
+
+<p>Download the demo file for <code class="highlighter-rouge">transpec</code> by clicking <a href="https://github.com/l-ramirez-lopez/transpec_info/raw/master/DEMO_file_cannabis.nir">here</a>.</p>
+
+<p>A brief description of the contents of the file is as follows:</p>
+
+<ul>
+  <li>The spectra correspond to cannabis flowers of 40 samples measured in triplicate (for a total of 120 spectra).</li>
+  <li>The file contains laboratory measured data for two propeties: Cannabidiolic Acid (CBDA) and tetrahydrocannabinolic acid (THCA). CBDA data is available for 21 samples while THCA is available for 27 samples.</li>
+  <li>The measurements were condcuted with three different instruments.</li>
+</ul>
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="https://github.com/l-ramirez-lopez">l-ramirez-lopez</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/transpec_info/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
