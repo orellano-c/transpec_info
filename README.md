@@ -7,7 +7,7 @@ Here you find a short set of tips for using `transpec` along with a demo .nir fi
 - Only N-500/NIRMaster to ProxiMate transfer are allowed (for the moment).
 - Repeated property names are not allowed.
 - No more than 1 product type per .nir file (transfer fucntions are product specific).
-- Before using the app, try to remove special characters in the IDs of the samples.
+- Before uploading a file into the app, verify that the sample ID's are Ok. Sometimes software programs do not handle adequately non-ASCII characters and they are replaced by a `?` symbol. Despite `transpec` handles almost any character, if you input a file with corrupted ID's the app will not correct them and you will get an output with corrputed ID's too. 
 - Recommended for N 500/NIRMaster (no nirvis, no n400, etc)
 - Loading huge files might take a while.
 - The wavelength range is only the overlap of both spectrometers (e.g. N 500 to ProxiMate: You can only use 1000 to 1700 nm).
