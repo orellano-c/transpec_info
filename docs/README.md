@@ -1,8 +1,8 @@
-#`transpec`: demo data and information for the NIR data transfer app
+`transpec`: demo data and brief information for the NIR data transfer app
 
 Flawil, 27.05.2019
 
-Here you find a short set of tips for using `transpec` along with a demo .nir file that you can use to test the app. 
+Here you find a basic set of tips for using `transpec` along with a demo .nir file that you can use to test the app. 
 
 - Only N-500/NIRMaster to ProxiMate transfer are allowed (for the moment).
 - Repeated property names are not allowed.
