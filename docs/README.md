@@ -1,4 +1,4 @@
-#`transpec`: demo data and information for the NIR data transfer app
+# `transpec`: demo data and information for the NIR data transfer app
 
 Flawil, 27.05.2019
 
