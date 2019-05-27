@@ -2,7 +2,7 @@
 
 Flawil, 27.05.2019
 
-Here you find a short set of tips for using `transpec` along with a demo .nir file that you can use to test the app. 
+Here you find a short set of tips for using `transpec` along with a demo .nir file that you can use to try the app. 
 
 - Only N-500/NIRMaster to ProxiMate transfer are allowed (for the moment).
 - Repeated property names are not allowed.
