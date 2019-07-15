@@ -1,6 +1,6 @@
 # `transpec`: demo data and information for the NIR data transfer app
 
-Flawil, 27.05.2019
+Flawil, 27.06.2019
 
 Here you can [download the demo file](https://github.com/buchi-labortechnik/transpec_info/raw/master/DEMO-file_cannabis.nir). A brief description of the contents of the file is as follows: 
 
@@ -22,4 +22,4 @@ Here you find a short set of tips for using `transpec` along with a demo .nir fi
 
 You can directly access `transpec`by clicking [here](https://transpec.buchi.com/)
 
-
+For any issue pelase contact ramirez-lopez.l@buchi.com
