@@ -2,7 +2,7 @@
 
 Flawil, 27.06.2019
 
-Here you can [download the demo file for `transpec` here](https://github.com/buchi-labortechnik/transpec_info/raw/master/DEMO-file_cannabis.nir). A brief description of the contents of the file is as follows: 
+Here you can [download the demo file for `transpec` here](https://github.com/buchi-labortechnik/transpec_info/raw/master/data/DEMO_file_cannabis.nir). A brief description of the contents of the file is as follows: 
 
 - The spectra correspond to cannabis flowers of 40 samples measured in triplicate (for a total of 120 spectra).  
 - The file contains laboratory measured data for two propeties: Cannabidiolic Acid (CBDA) and tetrahydrocannabinolic acid (THCA). CBDA data is available for 21 samples while THCA is available for 27 samples. 
