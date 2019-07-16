@@ -20,6 +20,6 @@ Here you find a short set of tips for using `transpec` along with a demo .nir fi
 - Bad input data will return bad output. 
 - For this app we have developed our own proprietary algorithms, the internal research experiments conducted by the NIR team have demonstrated that the methods used by the app usually outperform the standard methods commonly found in the literature (direct standardization, piece-wise direct standardization, etc).
 
-You can directly access `transpec` by clicking [here](https://transpec.buchi.com/)
+You can directly access `transpec` by clicking [here](https://transpec.buchi.com/).
 
 For any issue please contact ramirez-lopez.l@buchi.com
