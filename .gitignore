@@ -2,6 +2,7 @@
 *.Rhistory
 *.gitattributes
 .Rproj.user/
+.gitignore
 
 
 # Session Data files
