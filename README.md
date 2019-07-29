@@ -5,7 +5,7 @@ Flawil, 16.07.2019
 Here you can [download the demo file for `transpec`](https://github.com/buchi-labortechnik/transpec_info/raw/master/data/DEMO_file_cannabis.nir). A brief description of the contents of the file is as follows: 
 
 - The spectra correspond to cannabis flowers of 35 samples measured in triplicate (for a total of 120 spectra).  
-- The file contains laboratory measured data for two properties: Cannabidiolic Acid (CBDA) and tetrahydrocannabinolic acid (THCA). CBDA data is available for 21 samples, while THCA is available for 27 samples. 
+- The file contains laboratory measured data for two properties: Cannabidiolic Acid (CBDA) and tetrahydrocannabinolic acid (THCA). CBDA data is available for all the samples. 
 - The measurements were conducted with three different instruments.
 
 Here you find a short set of tips for using `transpec` along with a demo .nir file that you can use to try the app. 
